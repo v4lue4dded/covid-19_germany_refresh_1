@@ -180,7 +180,7 @@ data_time =  pd.date_range(start=min_Datum, end=max_Datum) \
         np.where(x.Datum < dt.datetime(2020, 3, 1), '4: 10.2020 - 02.2021',
         np.where(x.Datum < dt.datetime(2020, 6, 1), '5: 03.2021 - 05.2020',
         np.where(x.Datum < dt.datetime(2020,10, 1), '6: 06.2021 - 09.2020',
-        np.where(x.Datum < max_Datum - dt.timedelta(days= 27), '7: Oktober - vor 4 Wochen',
+        np.where(x.Datum < max_Datum - dt.timedelta(days= 27), '7: 09.2020 - vor 4 Wochen',
         np.where(x.Datum < max_Datum - dt.timedelta(days= 6), '8: vor 4 Wochen - vor 1er Woche', '6: letze Woche'
         ))))))))
     )    
