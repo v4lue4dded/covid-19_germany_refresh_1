@@ -1,0 +1,17 @@
+iso_3166_2_code	IdBundesland
+DE-BW	8
+DE-BY	9
+DE-BE	11
+DE-BB	12
+DE-HB	4
+DE-HH	2
+DE-HE	6
+DE-NI	3
+DE-MV	13
+DE-NW	5
+DE-RP	7
+DE-SL	10
+DE-SN	14
+DE-ST	15
+DE-SH	1
+DE-TH	16

@@ -1,0 +1,413 @@
+rs	typ	name	area_km2	population	density
+01001	Kreisfreie Stadt	"Flensburg, Stadt"	53.02	90164	1701
+01002	Kreisfreie Stadt	"Kiel, Landeshauptstadt"	118.65	246794	2080
+01003	Kreisfreie Stadt	"Lübeck, Hansestadt"	214.19	216530	1011
+01004	Kreisfreie Stadt	"Neumünster, Stadt"	71.66	80196	1119
+01051	Kreis	Dithmarschen	1428.17	133193	93
+01053	Kreis	Herzogtum Lauenburg	1263.07	198019	157
+01054	Kreis	Nordfriesland	2083.55	165951	80
+01055	Kreis	Ostholstein	1393.02	200539	144
+01056	Kreis	Pinneberg	664.25	316103	476
+01057	Kreis	Plön	1083.56	128686	119
+01058	Kreis	Rendsburg-Eckernförde	2189.79	274098	125
+01059	Kreis	Schleswig-Flensburg	2071.28	201156	97
+01060	Kreis	Segeberg	1344.47	277175	206
+01061	Kreis	Steinburg	1055.7	131013	124
+01062	Kreis	Stormarn	766.17	244156	319
+02000	Kreisfreie Stadt	"Hamburg, Freie und Hansestadt"	755.09	1847253	2446
+03101	Kreisfreie Stadt	"Braunschweig, Stadt"	192.7	249406	1294
+03102	Kreisfreie Stadt	"Salzgitter, Stadt"	224.49	104291	465
+03103	Kreisfreie Stadt	"Wolfsburg, Stadt"	204.61	124371	608
+03151	Landkreis	Gifhorn	1567.55	176523	113
+03153	Landkreis	Goslar	966.72	136292	141
+03154	Landkreis	Helmstedt	676.15	91297	135
+03155	Landkreis	Northeim	1268.76	132285	104
+03157	Landkreis	Peine	536.5	134801	251
+03158	Landkreis	Wolfenbüttel	724.3	119622	165
+03159	Landkreis	Göttingen	1755.42	326041	186
+03241	Landkreis	Region Hannover	2297.13	1157115	504
+03251	Landkreis	Diepholz	1991.01	217089	109
+03252	Landkreis	Hameln-Pyrmont	797.54	148549	186
+03254	Landkreis	Hildesheim	1208.34	275817	228
+03255	Landkreis	Holzminden	694.27	70458	101
+03256	Landkreis	Nienburg (Weser)	1400.82	121390	87
+03257	Landkreis	Schaumburg	675.67	157820	234
+03351	Landkreis	Celle	1550.82	179011	115
+03352	Landkreis	Cuxhaven	2058.96	198038	96
+03353	Landkreis	Harburg	1248.45	254431	204
+03354	Landkreis	Lüchow-Dannenberg	1227.33	48412	39
+03355	Landkreis	Lüneburg	1327.8	184139	139
+03356	Landkreis	Osterholz	652.67	113928	175
+03357	Landkreis	Rotenburg (Wümme)	2074.78	163782	79
+03358	Landkreis	Heidekreis	1881.45	140673	75
+03359	Landkreis	Stade	1267.38	204512	161
+03360	Landkreis	Uelzen	1462.59	92389	63
+03361	Landkreis	Verden	789.33	137133	174
+03401	Kreisfreie Stadt	"Delmenhorst, Stadt"	62.45	77559	1242
+03402	Kreisfreie Stadt	"Emden, Stadt"	112.34	49913	444
+03403	Kreisfreie Stadt	"Oldenburg (Oldenburg), Stadt"	103.09	169077	1640
+03404	Kreisfreie Stadt	"Osnabrück, Stadt"	119.8	165251	1379
+03405	Kreisfreie Stadt	"Wilhelmshaven, Stadt"	107.07	76089	711
+03451	Landkreis	Ammerland	730.64	124859	171
+03452	Landkreis	Aurich	1287.35	189694	147
+03453	Landkreis	Cloppenburg	1420.34	170682	120
+03454	Landkreis	Emsland	2883.67	326954	113
+03455	Landkreis	Friesland	609.53	98704	162
+03456	Landkreis	Grafschaft Bentheim	981.79	137162	140
+03457	Landkreis	Leer	1085.72	170756	157
+03458	Landkreis	Oldenburg	1064.83	130890	123
+03459	Landkreis	Osnabrück	2121.81	358080	169
+03460	Landkreis	Vechta	814.2	142814	175
+03461	Landkreis	Wesermarsch	824.78	88583	107
+03462	Landkreis	Wittmund	656.86	56926	87
+04011	Kreisfreie Stadt	"Bremen, Stadt"	317.84	567559	1786
+04012	Kreisfreie Stadt	"Bremerhaven, Stadt"	101.53	113643	1119
+05111	Kreisfreie Stadt	"Düsseldorf, Stadt"	217.41	621877	2860
+05112	Kreisfreie Stadt	"Duisburg, Stadt"	232.8	498686	2142
+05113	Kreisfreie Stadt	"Essen, Stadt"	210.34	582760	2771
+05114	Kreisfreie Stadt	"Krefeld, Stadt"	137.78	227417	1651
+05116	Kreisfreie Stadt	"Mönchengladbach, Stadt"	170.47	261034	1531
+05117	Kreisfreie Stadt	"Mülheim an der Ruhr, Stadt"	91.28	170632	1869
+05119	Kreisfreie Stadt	"Oberhausen, Stadt"	77.09	210764	2734
+05120	Kreisfreie Stadt	"Remscheid, Stadt"	74.52	111338	1494
+05122	Kreisfreie Stadt	"Solingen, Klingenstadt"	89.54	159245	1778
+05124	Kreisfreie Stadt	"Wuppertal, Stadt"	168.39	355100	2109
+05154	Kreis	Kleve	1232.99	312465	253
+05158	Kreis	Mettmann	407.22	485570	1192
+05162	Kreis	Rhein-Kreis Neuss	576.42	451730	784
+05166	Kreis	Viersen	563.28	298863	531
+05170	Kreis	Wesel	1042.79	459976	441
+05314	Kreisfreie Stadt	"Bonn, Stadt"	141.06	329673	2337
+05315	Kreisfreie Stadt	"Köln, Stadt"	405.01	1087863	2686
+05316	Kreisfreie Stadt	"Leverkusen, Stadt"	78.87	163729	2076
+05334	Kreis	Städteregion Aachen	706.91	557026	788
+05358	Kreis	Düren	941.49	264638	281
+05362	Kreis	Rhein-Erft-Kreis	704.71	470615	668
+05366	Kreis	Euskirchen	1248.73	193656	155
+05370	Kreis	Heinsberg	627.91	255555	407
+05374	Kreis	Oberbergischer Kreis	918.85	272057	296
+05378	Kreis	Rheinisch-Bergischer Kreis	437.32	283271	648
+05382	Kreis	Rhein-Sieg-Kreis	1153.21	600764	521
+05512	Kreisfreie Stadt	"Bottrop, Stadt"	100.61	117565	1169
+05513	Kreisfreie Stadt	"Gelsenkirchen, Stadt"	104.94	259645	2474
+05515	Kreisfreie Stadt	"Münster, Stadt"	303.28	315293	1040
+05554	Kreis	Borken	1420.98	371339	261
+05558	Kreis	Coesfeld	1112.04	220586	198
+05562	Kreis	Recklinghausen	761.31	614137	807
+05566	Kreis	Steinfurt	1795.75	448220	250
+05570	Kreis	Warendorf	1319.42	277840	211
+05711	Kreisfreie Stadt	"Bielefeld, Stadt"	258.83	334195	1291
+05754	Kreis	Gütersloh	969.21	364938	377
+05758	Kreis	Herford	450.4	250578	556
+05762	Kreis	Höxter	1201.42	140251	117
+05766	Kreis	Lippe	1246.22	347514	279
+05770	Kreis	Minden-Lübbecke	1152.41	310409	269
+05774	Kreis	Paderborn	1246.8	307839	247
+05911	Kreisfreie Stadt	"Bochum, Stadt"	145.66	365587	2510
+05913	Kreisfreie Stadt	"Dortmund, Stadt"	280.71	588250	2096
+05914	Kreisfreie Stadt	"Hagen, Stadt der FernUniversität"	160.45	188686	1176
+05915	Kreisfreie Stadt	"Hamm, Stadt"	226.44	179916	795
+05916	Kreisfreie Stadt	"Herne, Stadt"	51.42	156449	3043
+05954	Kreis	Ennepe-Ruhr-Kreis	409.64	324106	791
+05958	Kreis	Hochsauerlandkreis	1960.17	259777	133
+05962	Kreis	Märkischer Kreis	1061.07	410222	387
+05966	Kreis	Olpe	712.14	133955	188
+05970	Kreis	Siegen-Wittgenstein	1132.89	276944	244
+05974	Kreis	Soest	1328.63	301785	227
+05978	Kreis	Unna	543.21	394891	727
+06411	Kreisfreie Stadt	"Darmstadt, Wissenschaftsstadt"	122.07	159878	1310
+06412	Kreisfreie Stadt	"Frankfurt am Main, Stadt"	248.31	763380	3074
+06413	Kreisfreie Stadt	"Offenbach am Main, Stadt"	44.88	130280	2903
+06414	Kreisfreie Stadt	"Wiesbaden, Landeshauptstadt"	203.87	278474	1366
+06431	Landkreis	Bergstraße	719.47	270340	376
+06432	Landkreis	Darmstadt-Dieburg	658.64	297844	452
+06433	Landkreis	Groß-Gerau	453.03	275726	609
+06434	Landkreis	Hochtaunuskreis	481.84	236914	492
+06435	Landkreis	Main-Kinzig-Kreis	1397.32	420552	301
+06436	Landkreis	Main-Taunus-Kreis	222.53	238558	1072
+06437	Landkreis	Odenwaldkreis	623.97	96703	155
+06438	Landkreis	Offenbach	356.24	355813	999
+06439	Landkreis	Rheingau-Taunus-Kreis	811.41	187160	231
+06440	Landkreis	Wetteraukreis	1100.66	308339	280
+06531	Landkreis	Gießen	854.56	270688	317
+06532	Landkreis	Lahn-Dill-Kreis	1066.3	253319	238
+06533	Landkreis	Limburg-Weilburg	738.44	171912	233
+06534	Landkreis	Marburg-Biedenkopf	1262.37	247084	196
+06535	Landkreis	Vogelsbergkreis	1458.91	105643	72
+06611	Kreisfreie Stadt	"Kassel, documenta-Stadt"	106.8	202137	1893
+06631	Landkreis	Fulda	1380.41	223145	162
+06632	Landkreis	Hersfeld-Rotenburg	1097.75	120719	110
+06633	Landkreis	Kassel	1293.31	236764	183
+06634	Landkreis	Schwalm-Eder-Kreis	1539.01	179673	117
+06635	Landkreis	Waldeck-Frankenberg	1848.7	156406	85
+06636	Landkreis	Werra-Meißner-Kreis	1024.83	100629	98
+07111	Kreisfreie Stadt	"Koblenz, kreisfreie Stadt"	105.25	114052	1084
+07131	Landkreis	Ahrweiler	787.02	130086	165
+07132	Landkreis	Altenkirchen (Westerwald)	642.38	128805	201
+07133	Landkreis	Bad Kreuznach	863.89	158345	183
+07134	Landkreis	Birkenfeld	776.83	80951	104
+07135	Landkreis	Cochem-Zell	692.43	61375	89
+07137	Landkreis	Mayen-Koblenz	817.73	214434	262
+07138	Landkreis	Neuwied	627.05	182811	292
+07140	Landkreis	Rhein-Hunsrück-Kreis	991.06	103163	104
+07141	Landkreis	Rhein-Lahn-Kreis	782.24	122297	156
+07143	Landkreis	Westerwaldkreis	989.04	201904	204
+07211	Kreisfreie Stadt	"Trier, kreisfreie Stadt"	117.06	111528	953
+07231	Landkreis	Bernkastel-Wittlich	1167.92	112483	96
+07232	Landkreis	Eifelkreis Bitburg-Prüm	1626.95	99058	61
+07233	Landkreis	Vulkaneifel	911.64	60646	67
+07235	Landkreis	Trier-Saarburg	1102.26	149398	136
+07311	Kreisfreie Stadt	"Frankenthal (Pfalz), kreisfreie Stadt"	43.88	48762	1111
+07312	Kreisfreie Stadt	"Kaiserslautern, kreisfreie Stadt"	139.7	100030	716
+07313	Kreisfreie Stadt	"Landau in der Pfalz, kreisfreie Stadt"	82.94	46881	565
+07314	Kreisfreie Stadt	"Ludwigshafen am Rhein, kreisfreie Stadt"	77.43	172253	2225
+07315	Kreisfreie Stadt	"Mainz, kreisfreie Stadt"	97.73	218578	2237
+07316	Kreisfreie Stadt	"Neustadt an der Weinstraße, kreisfreie Stadt"	117.09	53264	455
+07317	Kreisfreie Stadt	"Pirmasens, kreisfreie Stadt"	61.35	40231	656
+07318	Kreisfreie Stadt	"Speyer, kreisfreie Stadt"	42.71	50561	1184
+07319	Kreisfreie Stadt	"Worms, kreisfreie Stadt"	108.73	83542	768
+07320	Kreisfreie Stadt	"Zweibrücken, kreisfreie Stadt"	70.64	34193	484
+07331	Landkreis	Alzey-Worms	588.07	129687	221
+07332	Landkreis	Bad Dürkheim	594.64	132671	223
+07333	Landkreis	Donnersbergkreis	645.41	75325	117
+07334	Landkreis	Germersheim	463.32	129013	278
+07335	Landkreis	Kaiserslautern	640	105979	166
+07336	Landkreis	Kusel	573.61	70219	122
+07337	Landkreis	Südliche Weinstraße	639.93	110521	173
+07338	Landkreis	Rhein-Pfalz-Kreis	304.99	154609	507
+07339	Landkreis	Mainz-Bingen	605.36	211417	349
+07340	Landkreis	Südwestpfalz	953.53	94831	99
+08111	Stadtkreis	"Stuttgart, Stadtkreis"	207.33	635911	3067
+08115	Landkreis	Böblingen	617.76	392807	636
+08116	Landkreis	Esslingen	641.28	535024	834
+08117	Landkreis	Göppingen	642.34	258145	402
+08118	Landkreis	Ludwigsburg	686.77	545423	794
+08119	Landkreis	Rems-Murr-Kreis	858.08	427248	498
+08121	Stadtkreis	"Heilbronn, Stadtkreis"	99.9	126592	1267
+08125	Landkreis	Heilbronn	1099.91	344456	313
+08126	Landkreis	Hohenlohekreis	776.76	112655	145
+08127	Landkreis	Schwäbisch Hall	1484.07	196761	133
+08128	Landkreis	Main-Tauber-Kreis	1304.12	132399	102
+08135	Landkreis	Heidenheim	627.13	132777	212
+08136	Landkreis	Ostalbkreis	1511.39	314025	208
+08211	Stadtkreis	"Baden-Baden, Stadtkreis"	140.19	55185	394
+08212	Stadtkreis	"Karlsruhe, Stadtkreis"	173.42	312060	1799
+08215	Landkreis	Karlsruhe	1084.98	445101	410
+08216	Landkreis	Rastatt	738.43	231420	313
+08221	Stadtkreis	"Heidelberg, Stadtkreis"	108.83	161485	1484
+08222	Stadtkreis	"Mannheim, Stadtkreis"	144.97	310658	2143
+08225	Landkreis	Neckar-Odenwald-Kreis	1125.95	143633	128
+08226	Landkreis	Rhein-Neckar-Kreis	1061.55	548355	517
+08231	Stadtkreis	"Pforzheim, Stadtkreis"	97.99	125957	1285
+08235	Landkreis	Calw	797.29	159201	200
+08236	Landkreis	Enzkreis	573.6	199556	348
+08237	Landkreis	Freudenstadt	870.4	118243	136
+08311	Stadtkreis	"Freiburg im Breisgau, Stadtkreis"	153.04	231195	1511
+08315	Landkreis	Breisgau-Hochschwarzwald	1378.32	263601	191
+08316	Landkreis	Emmendingen	679.8	166408	245
+08317	Landkreis	Ortenaukreis	1860.29	430953	232
+08325	Landkreis	Rottweil	769.42	139878	182
+08326	Landkreis	Schwarzwald-Baar-Kreis	1025.34	212506	207
+08327	Landkreis	Tuttlingen	734.38	140766	192
+08335	Landkreis	Konstanz	817.98	286305	350
+08336	Landkreis	Lörrach	806.67	228736	284
+08337	Landkreis	Waldshut	1131.14	171003	151
+08415	Landkreis	Reutlingen	1092.48	287034	263
+08416	Landkreis	Tübingen	519.11	228678	441
+08417	Landkreis	Zollernalbkreis	917.58	189363	206
+08421	Stadtkreis	"Ulm, Stadtkreis"	118.68	126790	1068
+08425	Landkreis	Alb-Donau-Kreis	1358.54	197076	145
+08426	Landkreis	Biberach	1409.52	201282	143
+08435	Landkreis	Bodenseekreis	664.77	217470	327
+08436	Landkreis	Ravensburg	1632.08	285424	175
+08437	Landkreis	Sigmaringen	1204.23	130849	109
+09161	Kreisfreie Stadt	Ingolstadt	133.35	137392	1030
+09162	Kreisfreie Stadt	"München, Landeshauptstadt"	310.7	1484226	4777
+09163	Kreisfreie Stadt	Rosenheim	37.22	63551	1707
+09171	Landkreis	Altötting	569.28	111516	196
+09172	Landkreis	Berchtesgadener Land	839.82	105929	126
+09173	Landkreis	Bad Tölz-Wolfratshausen	1110.67	127917	115
+09174	Landkreis	Dachau	579.16	154899	267
+09175	Landkreis	Ebersberg	549.39	143649	261
+09176	Landkreis	Eichstätt	1213.85	132881	109
+09177	Landkreis	Erding	870.74	138182	159
+09178	Landkreis	Freising	799.85	180007	225
+09179	Landkreis	Fürstenfeldbruck	434.8	219311	504
+09180	Landkreis	Garmisch-Partenkirchen	1012.17	88424	87
+09181	Landkreis	Landsberg am Lech	804.36	120302	150
+09182	Landkreis	Miesbach	866.21	100010	115
+09183	Landkreis	Mühldorf a.Inn	805.33	115872	144
+09184	Landkreis	München	664.25	350473	528
+09185	Landkreis	Neuburg-Schrobenhausen	739.71	97303	132
+09186	Landkreis	Pfaffenhofen a.d.Ilm	761.05	128227	168
+09187	Landkreis	Rosenheim	1439.44	261330	182
+09188	Landkreis	Starnberg	487.71	136667	280
+09189	Landkreis	Traunstein	1533.76	177319	116
+09190	Landkreis	Weilheim-Schongau	966.28	135478	140
+09261	Kreisfreie Stadt	Landshut	65.83	73411	1115
+09262	Kreisfreie Stadt	Passau	69.56	52803	759
+09263	Kreisfreie Stadt	Straubing	67.59	47791	707
+09271	Landkreis	Deggendorf	861.17	119478	139
+09272	Landkreis	Freyung-Grafenau	983.85	78362	80
+09273	Landkreis	Kelheim	1065.13	123058	116
+09274	Landkreis	Landshut	1347.55	159895	119
+09275	Landkreis	Passau	1530.09	192656	126
+09276	Landkreis	Regen	974.78	77410	79
+09277	Landkreis	Rottal-Inn	1281.2	121502	95
+09278	Landkreis	Straubing-Bogen	1201.61	101120	84
+09279	Landkreis	Dingolfing-Landau	877.58	96683	110
+09361	Kreisfreie Stadt	Amberg	50.13	42207	842
+09362	Kreisfreie Stadt	Regensburg	80.86	153094	1893
+09363	Kreisfreie Stadt	Weiden i.d.OPf.	70.57	42743	606
+09371	Landkreis	Amberg-Sulzbach	1255.86	103049	82
+09372	Landkreis	Cham	1526.82	127998	84
+09373	Landkreis	Neumarkt i.d.OPf.	1343.96	134573	100
+09374	Landkreis	Neustadt a.d.Waldnaab	1427.69	94450	66
+09375	Landkreis	Regensburg	1391.65	194070	139
+09376	Landkreis	Schwandorf	1458.34	147872	101
+09377	Landkreis	Tirschenreuth	1084.25	72046	66
+09461	Kreisfreie Stadt	Bamberg	54.62	77373	1417
+09462	Kreisfreie Stadt	Bayreuth	66.89	74783	1118
+09463	Kreisfreie Stadt	Coburg	48.29	41072	851
+09464	Kreisfreie Stadt	Hof	58.02	45825	790
+09471	Landkreis	Bamberg	1167.79	147163	126
+09472	Landkreis	Bayreuth	1273.62	103664	81
+09473	Landkreis	Coburg	590.42	86747	147
+09474	Landkreis	Forchheim	642.82	116203	181
+09475	Landkreis	Hof	892.52	94801	106
+09476	Landkreis	Kronach	651.49	66743	102
+09477	Landkreis	Kulmbach	658.33	71566	109
+09478	Landkreis	Lichtenfels	519.94	66776	128
+09479	Landkreis	Wunsiedel i.Fichtelgebirge	606.37	72655	120
+09561	Kreisfreie Stadt	Ansbach	99.91	41798	418
+09562	Kreisfreie Stadt	Erlangen	76.96	112528	1462
+09563	Kreisfreie Stadt	Fürth	63.35	128497	2028
+09564	Kreisfreie Stadt	Nürnberg	186.45	518370	2780
+09565	Kreisfreie Stadt	Schwabach	40.8	40981	1004
+09571	Landkreis	Ansbach	1971.33	184591	94
+09572	Landkreis	Erlangen-Höchstadt	564.55	137262	243
+09573	Landkreis	Fürth	307.44	117853	383
+09574	Landkreis	Nürnberger Land	799.52	170792	214
+09575	Landkreis	Neustadt a.d.Aisch-Bad Windsheim	1267.44	101014	80
+09576	Landkreis	Roth	895.16	126749	142
+09577	Landkreis	Weißenburg-Gunzenhausen	970.78	94734	98
+09661	Kreisfreie Stadt	Aschaffenburg	62.45	71002	1137
+09662	Kreisfreie Stadt	Schweinfurt	35.7	53426	1497
+09663	Kreisfreie Stadt	Würzburg	87.6	127934	1460
+09671	Landkreis	Aschaffenburg	698.9	174200	249
+09672	Landkreis	Bad Kissingen	1136.9	103235	91
+09673	Landkreis	Rhön-Grabfeld	1021.68	79635	78
+09674	Landkreis	Haßberge	956.19	84384	88
+09675	Landkreis	Kitzingen	684.14	91155	133
+09676	Landkreis	Miltenberg	715.58	128743	180
+09677	Landkreis	Main-Spessart	1321.2	126158	95
+09678	Landkreis	Schweinfurt	841.39	115445	137
+09679	Landkreis	Würzburg	968.35	162302	168
+09761	Kreisfreie Stadt	Augsburg	146.86	296582	2019
+09762	Kreisfreie Stadt	Kaufbeuren	40.02	44398	1109
+09763	Kreisfreie Stadt	Kempten (Allgäu)	63.28	69151	1093
+09764	Kreisfreie Stadt	Memmingen	70.11	44100	629
+09771	Landkreis	Aichach-Friedberg	780.23	134655	173
+09772	Landkreis	Augsburg	1070.63	253468	237
+09773	Landkreis	Dillingen a.d.Donau	792.23	96562	122
+09774	Landkreis	Günzburg	762.4	127027	167
+09775	Landkreis	Neu-Ulm	515.84	175204	340
+09776	Landkreis	Lindau (Bodensee)	323.39	81981	254
+09777	Landkreis	Ostallgäu	1394.43	141182	101
+09778	Landkreis	Unterallgäu	1229.57	145341	118
+09779	Landkreis	Donau-Ries	1274.58	133783	105
+09780	Landkreis	Oberallgäu	1527.96	156008	102
+10041	Regionalverband	Regionalverband Saarbrücken	410.95	328714	800
+10042	Landkreis	Merzig-Wadern	556.66	103243	185
+10043	Landkreis	Neunkirchen	249.8	131408	526
+10044	Landkreis	Saarlouis	459.35	194319	423
+10045	Landkreis	Saarpfalz-Kreis	418.28	142196	339.9540977
+10046	Landkreis	St. Wendel	476.07	87007	182.7609385
+11001	Stadtkreis	Mitte	39.4	385748	9790.558376
+11002	Stadtkreis	Friedrichshain- Kreuzberg	20.4	290386	14234.60784
+11003	Stadtkreis	Pankow	103.22	409335	3965.655881
+11004	Stadtkreis	Charlottenburg- Wilmersdorf	64.69	343592	5311.36188
+11005	Stadtkreis	Spandau	91.88	245197	2668.665651
+11006	Stadtkreis	Steglitz- Zehlendorf	102.56	310071	3023.313183
+11007	Stadtkreis	Tempelhof- Schöneberg	53.05	350984	6616.098021
+11008	Stadtkreis	Neukölln	44.93	329917	7342.911195
+11009	Stadtkreis	Treptow- Köpenick	167.73	273689	1631.723603
+11010	Stadtkreis	Marzahn- Hellersdorf	61.82	269967	4366.984795
+11011	Stadtkreis	Lichtenberg	52.12	294201	5644.685342
+11012	Stadtkreis	Reinickendorf	89.32	266408	2982.624272
+12051	Kreisfreie Stadt	"Brandenburg an der Havel, Stadt"	229.72	72184	314
+12052	Kreisfreie Stadt	"Cottbus, Stadt"	165.62	99678	602
+12053	Kreisfreie Stadt	"Frankfurt (Oder), Stadt"	147.85	57751	391
+12054	Kreisfreie Stadt	"Potsdam, Stadt"	188.24	180334	958
+12060	Landkreis	Barnim	1479.58	185244	125
+12061	Landkreis	Dahme-Spreewald	2274.5	170791	75
+12062	Landkreis	Elbe-Elster	1899.19	101827	54
+12063	Landkreis	Havelland	1727.31	162996	94
+12064	Landkreis	Märkisch-Oderland	2158.65	195751	91
+12065	Landkreis	Oberhavel	1808.18	212914	118
+12066	Landkreis	Oberspreewald-Lausitz	1223.48	109371	89
+12067	Landkreis	Oder-Spree	2256.75	178803	79
+12068	Landkreis	Ostprignitz-Ruppin	2526.56	98861	39
+12069	Landkreis	Potsdam-Mittelmark	2592.02	216566	84
+12070	Landkreis	Prignitz	2138.54	76158	36
+12071	Landkreis	Spree-Neiße	1656.98	113720	69
+12072	Landkreis	Teltow-Fläming	2104.21	169997	81
+12073	Landkreis	Uckermark	3077.03	118947	39
+13003	Kreisfreie Stadt	Rostock	181.36	209191	1153
+13004	Kreisfreie Stadt	Schwerin	130.52	95653	733
+13071	Landkreis	Mecklenburgische Seenplatte	5495.6	258074	47
+13072	Landkreis	Landkreis Rostock	3431.29	215794	63
+13073	Landkreis	Vorpommern-Rügen	3216.02	224702	70
+13074	Landkreis	Nordwestmecklenburg	2127.08	157322	74
+13075	Landkreis	Vorpommern-Greifswald	3945.56	235623	60
+13076	Landkreis	Ludwigslust-Parchim	4766.78	211779	44
+14511	Kreisfreie Stadt	"Chemnitz, Stadt"	221.05	246334	1114
+14521	Landkreis	Erzgebirgskreis	1827.91	334948	183
+14522	Landkreis	Mittelsachsen	2116.85	304099	144
+14523	Landkreis	Vogtlandkreis	1412.42	225997	160
+14524	Landkreis	Zwickau	949.78	315002	332
+14612	Kreisfreie Stadt	"Dresden, Stadt"	328.48	556780	1695
+14625	Landkreis	Bautzen	2395.6	299758	125
+14626	Landkreis	Görlitz	2111.41	252725	120
+14627	Landkreis	Meißen	1454.59	241717	166
+14628	Landkreis	Sächsische Schweiz-Osterzgebirge	1654.19	245586	148
+14713	Kreisfreie Stadt	"Leipzig, Stadt"	297.8	593145	1992
+14729	Landkreis	Leipzig	1651.28	258139	156
+14730	Landkreis	Nordsachsen	2028.56	197741	97
+15001	Kreisfreie Stadt	"Dessau-Roßlau, Stadt"	244.71	80103	327
+15002	Kreisfreie Stadt	"Halle (Saale), Stadt"	135.03	238762	1768
+15003	Kreisfreie Stadt	"Magdeburg, Landeshauptstadt"	201.01	237565	1182
+15081	Landkreis	Altmarkkreis Salzwedel	2293.74	83173	36
+15082	Landkreis	Anhalt-Bitterfeld	1453.84	158486	109
+15083	Landkreis	Börde	2366.99	170923	72
+15084	Landkreis	Burgenlandkreis	1413.95	178846	126
+15085	Landkreis	Harz	2104.75	213310	101
+15086	Landkreis	Jerichower Land	1577.08	89589	57
+15087	Landkreis	Mansfeld-Südharz	1449.01	134942	93
+15088	Landkreis	Saalekreis	1434.01	183815	128
+15089	Landkreis	Salzlandkreis	1427.5	189125	132
+15090	Landkreis	Stendal	2424.11	111190	46
+15091	Landkreis	Wittenberg	1930.78	124953	65
+16051	Kreisfreie Stadt	"Erfurt, Stadt"	269.91	213981	793
+16052	Kreisfreie Stadt	"Gera, Stadt"	152.18	93125	612
+16053	Kreisfreie Stadt	"Jena, Stadt"	114.77	111343	970
+16054	Kreisfreie Stadt	"Suhl, Stadt"	141.62	36789	260
+16055	Kreisfreie Stadt	"Weimar, Stadt"	84.48	65228	772
+16056	Kreisfreie Stadt	"Eisenach, Stadt"	104.17	42250	406
+16061	Landkreis	Eichsfeld	943.07	100006	106
+16062	Landkreis	Nordhausen	713.9	83416	117
+16063	Landkreis	Wartburgkreis	1266.96	118974	94
+16064	Landkreis	Unstrut-Hainich-Kreis	979.68	102232	104
+16065	Landkreis	Kyffhäuserkreis	1037.91	74212	72
+16066	Landkreis	Schmalkalden-Meiningen	1251.21	124916	100
+16067	Landkreis	Gotha	936.08	134908	144
+16068	Landkreis	Sömmerda	806.85	69427	86
+16069	Landkreis	Hildburghausen	938.42	63197	67
+16070	Landkreis	Ilm-Kreis	805.12	106249	132
+16071	Landkreis	Weimarer Land	804.48	82156	102
+16072	Landkreis	Sonneberg	460.85	57717	125
+16073	Landkreis	Saalfeld-Rudolstadt	1008.79	103199	102
+16074	Landkreis	Saale-Holzland-Kreis	815.24	82950	102
+16075	Landkreis	Saale-Orla-Kreis	1151.3	80312	70
+16076	Landkreis	Greiz	845.98	97398	115
+16077	Landkreis	Altenburger Land	569.39	89393	157

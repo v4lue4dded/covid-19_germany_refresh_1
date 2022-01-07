@@ -1,0 +1,413 @@
+kreis_id	krs17	krs17_name	fl17	bev17	kbez	kbez	ktyp4	ktyp4_name	slraum	slraum_name	raumt2010lage_kreis	raumt2010lage_kreis_name	rtyp3	rtyp3_name	WO	WO_name
+01001	1001000	"Flensburg, Stadt"	56.74	88519	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+01002	1002000	"Kiel, Stadt"	118.65	247943	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+01003	1003000	"Lübeck, Stadt"	214.21	216318	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+01004	1004000	"Neumünster, Stadt"	71.63	79335	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+01051	1051000	Dithmarschen	1428.17	133447	43	Kreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	1	Westdeutschland
+01053	1053000	Herzogtum Lauenburg	1263.06	196074	43	Kreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+01054	1054000	Nordfriesland	2082.97	165462	43	Kreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	1	Westdeutschland
+01055	1055000	Ostholstein	1392.58	200584	43	Kreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+01056	1056000	Pinneberg	664.28	312662	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+01057	1057000	Plön	1083.18	128842	43	Kreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+01058	1058000	Rendsburg-Eckernförde	2189.26	273022	43	Kreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+01059	1059000	Schleswig-Flensburg	2071.13	199503	43	Kreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+01060	1060000	Segeberg	1344.4	274025	43	Kreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+01061	1061000	Steinburg	1055.7	131613	43	Kreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+01062	1062000	Stormarn	766.32	242472	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+02000	2000000	"Hamburg, Stadt"	755.3	1830584	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+03101	3101000	"Braunschweig, Stadt"	192.7	248023	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03102	3102000	"Salzgitter, Stadt"	224.49	104548	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03103	3103000	"Wolfsburg, Stadt"	204.61	123914	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03151	3151000	Gifhorn	1567.58	175079	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03153	3153000	Goslar	966.74	137563	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03154	3154000	Helmstedt	676.11	91720	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03155	3155000	Northeim	1268.76	133046	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03157	3157000	Peine	536.5	133368	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03158	3158000	Wolfenbüttel	724.29	120437	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03159	3159000	Göttingen	1755.53	328036	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03241	3241000	Region Hannover	2297.13	1152675	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+03251	3251000	Diepholz	1990.97	216012	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03252	3252000	Hameln-Pyrmont	797.53	148296	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03254	3254000	Hildesheim	1208.35	276640	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03255	3255000	Holzminden	694.24	71144	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03256	3256000	Nienburg (Weser)	1400.79	121470	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	1	Städtische Region	1	Westdeutschland
+03257	3257000	Schaumburg	675.69	157883	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+03351	3351000	Celle	1550.82	178764	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+03352	3352000	Cuxhaven	2058.97	198100	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03353	3353000	Harburg	1248.57	251511	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+03354	3354000	Lüchow-Dannenberg	1227.28	48357	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	1	Westdeutschland
+03355	3355000	Lüneburg	1327.68	182930	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+03356	3356000	Osterholz	652.67	113105	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03357	3357000	Rotenburg (Wümme)	2074.79	163377	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+03358	3358000	Heidekreis	1881.4	139099	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+03359	3359000	Stade	1267.4	201887	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+03360	3360000	Uelzen	1462.61	92744	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+03361	3361000	Verden	789.4	136590	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03401	3401000	"Delmenhorst, Stadt"	62.45	77521	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03402	3402000	"Emden, Stadt"	112.34	50607	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03403	3403000	"Oldenburg (Oldenburg), Stadt"	103.09	167081	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03404	3404000	"Osnabrück, Stadt"	119.8	164374	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03405	3405000	"Wilhelmshaven, Stadt"	107.07	76316	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03451	3451000	Ammerland	730.56	123377	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03452	3452000	Aurich	1287.34	189949	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03453	3453000	Cloppenburg	1420.42	167925	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03454	3454000	Emsland	2883.67	323636	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+03455	3455000	Friesland	609.54	98509	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03456	3456000	Grafschaft Bentheim	981.81	135859	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+03457	3457000	Leer	1085.69	168946	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03458	3458000	Oldenburg	1064.83	129924	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03459	3459000	Osnabrück	2121.81	356140	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03460	3460000	Vechta	814.2	140540	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03461	3461000	Wesermarsch	824.76	89022	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+03462	3462000	Wittmund	656.83	56731	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+04011	4011000	"Bremen, Stadt"	326.18	568006	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+04012	4012000	"Bremerhaven, Stadt"	93.66	113026	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+05111	5111000	"Düsseldorf, Stadt"	217.41	617280	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05112	5112000	"Duisburg, Stadt"	232.8	498110	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05113	5113000	"Essen, Stadt"	210.34	583393	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05114	5114000	"Krefeld, Stadt"	137.77	226699	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05116	5116000	"Mönchengladbach, Stadt"	170.47	262188	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05117	5117000	"Mülheim an der Ruhr, Stadt"	91.28	171265	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05119	5119000	"Oberhausen, Stadt"	77.09	211422	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05120	5120000	"Remscheid, Stadt"	74.52	110584	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05122	5122000	"Solingen, Stadt"	89.54	158803	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05124	5124000	"Wuppertal, Stadt"	168.39	353590	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05154	5154000	Kleve	1233	311270	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05158	5158000	Mettmann	407.21	485409	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05162	5162000	Rhein-Kreis Neuss	576.42	449408	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05166	5166000	Viersen	563.27	298733	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05170	5170000	Wesel	1042.81	460666	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05314	5314000	"Bonn, Stadt"	141.06	325490	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05315	5315000	"Köln, Stadt"	405.02	1080394	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05316	5316000	"Leverkusen, Stadt"	78.87	163577	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05334	5334000	Städteregion Aachen	706.84	554068	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05358	5358000	Düren	941.78	262889	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05362	5362000	Rhein-Erft-Kreis	704.7	467209	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05366	5366000	Euskirchen	1248.72	192127	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05370	5370000	Heinsberg	627.99	253106	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05374	5374000	Oberbergischer Kreis	918.84	272968	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05378	5378000	Rheinisch-Bergischer Kreis	437.32	283344	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05382	5382000	Rhein-Sieg-Kreis	1153.21	599056	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05512	5512000	"Bottrop, Stadt"	100.61	117364	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05513	5513000	"Gelsenkirchen, Stadt"	104.94	260305	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05515	5515000	"Münster, Stadt"	303.28	313559	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+05554	5554000	Borken	1420.96	369718	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+05558	5558000	Coesfeld	1112.03	219360	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+05562	5562000	Recklinghausen	761.32	616824	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05566	5566000	Steinfurt	1795.76	446565	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+05570	5570000	Warendorf	1319.42	277458	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+05711	5711000	"Bielefeld, Stadt"	258.82	332552	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05754	5754000	Gütersloh	969.21	363049	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05758	5758000	Herford	450.41	251539	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05762	5762000	Höxter	1201.42	141565	43	Kreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+05766	5766000	Lippe	1246.19	349069	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+05770	5770000	Minden-Lübbecke	1152.41	311207	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+05774	5774000	Paderborn	1246.78	305362	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+05911	5911000	"Bochum, Stadt"	145.66	365529	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05913	5913000	"Dortmund, Stadt"	280.71	586600	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05914	5914000	"Hagen, Stadt"	160.45	187730	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05915	5915000	"Hamm, Stadt"	226.43	179185	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05916	5916000	"Herne, Stadt"	51.42	156490	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05954	5954000	Ennepe-Ruhr-Kreis	409.64	324670	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05958	5958000	Hochsauerlandkreis	1960.15	261591	43	Kreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+05962	5962000	Märkischer Kreis	1061.08	413383	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+05966	5966000	Olpe	712.14	134808	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+05970	5970000	Siegen-Wittgenstein	1132.89	277977	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+05974	5974000	Soest	1328.62	301693	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+05978	5978000	Unna	543.21	393934	43	Kreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+06411	6411000	"Darmstadt, Stadt"	122.09	158254	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+06412	6412000	"Frankfurt am Main, Stadt"	248.31	746878	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+06413	6413000	"Offenbach am Main, Stadt"	44.89	126658	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+06414	6414000	"Wiesbaden, Stadt"	203.93	278654	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+06431	6431000	Bergstraße	719.51	268780	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+06432	6432000	Darmstadt-Dieburg	658.63	296048	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+06433	6433000	Groß-Gerau	453.03	271403	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+06434	6434000	Hochtaunuskreis	482	235995	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+06435	6435000	Main-Kinzig-Kreis	1397.55	418208	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+06436	6436000	Main-Taunus-Kreis	222.39	236969	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+06437	6437000	Odenwaldkreis	623.97	96597	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+06438	6438000	Offenbach	356.29	351692	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+06439	6439000	Rheingau-Taunus-Kreis	811.48	186602	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+06440	6440000	Wetteraukreis	1100.69	305312	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+06531	6531000	Gießen	854.66	267056	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+06532	6532000	Lahn-Dill-Kreis	1066.53	254164	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+06533	6533000	Limburg-Weilburg	738.46	171971	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+06534	6534000	Marburg-Biedenkopf	1262.54	246165	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+06535	6535000	Vogelsbergkreis	1458.99	106451	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+06611	6611000	"Kassel, Stadt"	106.78	200736	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+06631	6631000	Fulda	1380.48	221783	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+06632	6632000	Hersfeld-Rotenburg	1097.09	121101	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+06633	6633000	Kassel	1292.92	236674	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+06634	6634000	Schwalm-Eder-Kreis	1538.49	180754	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+06635	6635000	Waldeck-Frankenberg	1848.44	157256	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+06636	6636000	Werra-Meißner-Kreis	1024.69	101101	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07111	7111000	"Koblenz, Stadt"	105.25	113844	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07131	7131000	Ahrweiler	787.02	128914	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07132	7132000	Altenkirchen (Westerwald)	642.37	128791	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07133	7133000	Bad Kreuznach	863.89	157549	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07134	7134000	Birkenfeld	776.83	80728	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07135	7135000	Cochem-Zell	692.46	61662	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07137	7137000	Mayen-Koblenz	817.69	213554	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07138	7138000	Neuwied	627.04	181655	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07140	7140000	Rhein-Hunsrück-Kreis	991.07	102938	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07141	7141000	Rhein-Lahn-Kreis	782.19	122381	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07143	7143000	Westerwaldkreis	989.06	201039	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07211	7211000	"Trier, Stadt"	117.06	110013	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+07231	7231000	Bernkastel-Wittlich	1167.93	112134	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+07232	7232000	Eifelkreis Bitburg-Prüm	1626.96	98213	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+07233	7233000	Vulkaneifel	911.65	60705	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+07235	7235000	Trier-Saarburg	1102.19	148532	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+07311	7311000	"Frankenthal (Pfalz), Stadt"	43.88	48417	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+07312	7312000	"Kaiserslautern, Stadt"	139.7	99684	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07313	7313000	"Landau in der Pfalz, Stadt"	82.94	46292	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+07314	7314000	"Ludwigshafen am Rhein, Stadt"	77.43	168497	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+07315	7315000	"Mainz, Stadt"	97.73	215110	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07316	7316000	"Neustadt an der Weinstraße, Stadt"	117.09	53353	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+07317	7317000	"Pirmasens, Stadt"	61.36	40632	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07318	7318000	"Speyer, Stadt"	42.71	50931	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+07319	7319000	"Worms, Stadt"	108.73	83081	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07320	7320000	"Zweibrücken, Stadt"	70.64	34270	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07331	7331000	Alzey-Worms	588.07	128519	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07332	7332000	Bad Dürkheim	594.61	132739	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+07333	7333000	Donnersbergkreis	645.43	75102	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07334	7334000	Germersheim	463.32	128477	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+07335	7335000	Kaiserslautern	639.98	105649	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07336	7336000	Kusel	573.58	70764	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07337	7337000	Südliche Weinstraße	639.97	110622	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+07338	7338000	Rhein-Pfalz-Kreis	304.99	153629	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+07339	7339000	Mainz-Bingen	605.37	209785	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+07340	7340000	Südwestpfalz	953.56	95474	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08111	8111000	"Stuttgart, Stadt"	207.33	632743	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+08115	8115000	Böblingen	617.79	389548	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+08116	8116000	Esslingen	641.28	532447	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+08117	8117000	Göppingen	642.33	256345	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+08118	8118000	Ludwigsburg	686.75	542630	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+08119	8119000	Rems-Murr-Kreis	858.09	424878	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+08121	8121000	"Heilbronn, Stadt"	99.89	125113	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08125	8125000	Heilbronn	1099.94	340772	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08126	8126000	Hohenlohekreis	776.76	111392	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08127	8127000	Schwäbisch Hall	1484.07	194203	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08128	8128000	Main-Tauber-Kreis	1304.13	132189	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08135	8135000	Heidenheim	627.11	132006	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08136	8136000	Ostalbkreis	1511.36	312422	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08211	8211000	"Baden-Baden, Stadt"	140.19	54718	42	Stadtkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+08212	8212000	"Karlsruhe, Stadt"	173.42	311919	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+08215	8215000	Karlsruhe	1085.27	442673	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+08216	8216000	Rastatt	738.42	230216	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+08221	8221000	"Heidelberg, Stadt"	108.89	160601	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+08222	8222000	"Mannheim, Stadt"	144.97	307997	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+08225	8225000	Neckar-Odenwald-Kreis	1125.95	143376	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	1	Städtische Region	1	Westdeutschland
+08226	8226000	Rhein-Neckar-Kreis	1061.54	546745	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+08231	8231000	"Pforzheim, Stadt"	98.07	124289	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08235	8235000	Calw	797.31	157424	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08236	8236000	Enzkreis	573.62	198369	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08237	8237000	Freudenstadt	870.39	117456	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08311	8311000	"Freiburg im Breisgau, Stadt"	153.04	229636	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08315	8315000	Breisgau-Hochschwarzwald	1378.31	262405	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08316	8316000	Emmendingen	679.79	164712	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08317	8317000	Ortenaukreis	1860.29	425932	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08325	8325000	Rottweil	769.44	138858	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08326	8326000	Schwarzwald-Baar-Kreis	1025.34	211207	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08327	8327000	Tuttlingen	734.35	139397	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08335	8335000	Konstanz	817.97	284015	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08336	8336000	Lörrach	806.72	228314	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08337	8337000	Waldshut	1131.1	170198	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08415	8415000	Reutlingen	1092.46	285754	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08416	8416000	Tübingen	519.14	225755	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08417	8417000	Zollernalbkreis	917.56	188170	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08421	8421000	"Ulm, Stadt"	118.68	125596	42	Stadtkreis	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08425	8425000	Alb-Donau-Kreis	1358.54	194629	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08426	8426000	Biberach	1409.49	198265	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08435	8435000	Bodenseekreis	664.77	214655	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08436	8436000	Ravensburg	1632.09	283264	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+08437	8437000	Sigmaringen	1204.22	130192	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09161	9161000	"Ingolstadt, Stadt"	133.35	135244	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09162	9162000	"München, Stadt"	310.71	1456039	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+09163	9163000	"Rosenheim, Stadt"	37.22	63080	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09171	9171000	Altötting	569.29	110338	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09172	9172000	Berchtesgadener Land	839.85	105052	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09173	9173000	Bad Tölz-Wolfratshausen	1110.66	126572	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09174	9174000	Dachau	579.15	152703	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+09175	9175000	Ebersberg	549.39	140800	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+09176	9176000	Eichstätt	1213.86	131646	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09177	9177000	Erding	870.73	136884	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+09178	9178000	Freising	799.85	177997	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+09179	9179000	Fürstenfeldbruck	434.83	217831	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+09180	9180000	Garmisch-Partenkirchen	1012.21	88155	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09181	9181000	Landsberg am Lech	804.37	119141	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+09182	9182000	Miesbach	866.22	99189	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09183	9183000	Mühldorf a.Inn	805.36	114486	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09184	9184000	München	664.27	346433	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+09185	9185000	Neuburg-Schrobenhausen	739.72	96164	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09186	9186000	Pfaffenhofen a.d.Ilm	761.05	126244	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09187	9187000	Rosenheim	1439.45	259449	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09188	9188000	Starnberg	487.72	135545	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+09189	9189000	Traunstein	1533.74	176290	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09190	9190000	Weilheim-Schongau	966.29	134252	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09261	9261000	"Landshut, Stadt"	65.83	71193	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09262	9262000	"Passau, Stadt"	69.56	51781	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09263	9263000	"Straubing, Stadt"	67.59	47586	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09271	9271000	Deggendorf	861.15	118741	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09272	9272000	Freyung-Grafenau	983.88	78345	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	1	Westdeutschland
+09273	9273000	Kelheim	1065.13	121119	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09274	9274000	Landshut	1347.56	157239	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09275	9275000	Passau	1530.08	190504	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09276	9276000	Regen	974.79	77489	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	1	Westdeutschland
+09277	9277000	Rottal-Inn	1281.22	120371	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09278	9278000	Straubing-Bogen	1201.64	99838	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09279	9279000	Dingolfing-Landau	877.57	95831	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09361	9361000	"Amberg, Stadt"	50.13	42248	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09362	9362000	"Regensburg, Stadt"	80.85	150894	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09363	9363000	"Weiden i.d.OPf., Stadt"	70.57	42543	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09371	9371000	Amberg-Sulzbach	1255.84	102836	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09372	9372000	Cham	1520.11	127339	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09373	9373000	Neumarkt i.d.OPf.	1343.95	132644	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09374	9374000	Neustadt a.d.Waldnaab	1427.69	94486	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09375	9375000	Regensburg	1391.71	192200	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09376	9376000	Schwandorf	1465.09	146487	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09377	9377000	Tirschenreuth	1084.26	72730	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09461	9461000	"Bamberg, Stadt"	54.62	77179	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09462	9462000	"Bayreuth, Stadt"	66.89	73999	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09463	9463000	"Coburg, Stadt"	48.29	41236	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09464	9464000	"Hof, Stadt"	58.02	45950	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09471	9471000	Bamberg	1167.78	146584	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09472	9472000	Bayreuth	1273.62	103805	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09473	9473000	Coburg	590.41	86885	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09474	9474000	Forchheim	642.82	115681	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09475	9475000	Hof	892.51	95773	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09476	9476000	Kronach	651.5	67474	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09477	9477000	Kulmbach	658.33	72012	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09478	9478000	Lichtenfels	519.93	66777	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09479	9479000	Wunsiedel i.Fichtelgebirge	606.37	73485	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09561	9561000	"Ansbach, Stadt"	99.91	41652	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09562	9562000	"Erlangen, Stadt"	76.96	110998	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+09563	9563000	"Fürth, Stadt"	63.35	126526	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+09564	9564000	"Nürnberg, Stadt"	186.45	515201	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+09565	9565000	"Schwabach, Stadt"	40.8	40781	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+09571	9571000	Ansbach	1971.31	183256	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09572	9572000	Erlangen-Höchstadt	564.54	135334	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+09573	9573000	Fürth	307.42	116193	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+09574	9574000	Nürnberger Land	799.54	169752	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+09575	9575000	Neustadt a.d.Aisch-Bad Windsheim	1267.45	99641	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09576	9576000	Roth	895.14	126101	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+09577	9577000	Weißenburg-Gunzenhausen	970.78	94208	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09661	9661000	"Aschaffenburg, Stadt"	62.45	69928	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	3	Ländliche Region	1	Westdeutschland
+09662	9662000	"Schweinfurt, Stadt"	35.7	53437	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09663	9663000	"Würzburg, Stadt"	87.6	126635	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09671	9671000	Aschaffenburg	698.91	173969	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	3	Ländliche Region	1	Westdeutschland
+09672	9672000	Bad Kissingen	1136.83	103265	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09673	9673000	Rhön-Grabfeld	1021.74	79796	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09674	9674000	Haßberge	956.19	84464	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09675	9675000	Kitzingen	684.16	90429	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09676	9676000	Miltenberg	715.53	128484	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09677	9677000	Main-Spessart	1321.18	126523	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09678	9678000	Schweinfurt	841.4	115105	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09679	9679000	Würzburg	968.33	161340	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09761	9761000	"Augsburg, Stadt"	146.87	292851	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09762	9762000	"Kaufbeuren, Stadt"	40.02	43478	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09763	9763000	"Kempten (Allgäu), Stadt"	63.28	68330	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09764	9764000	"Memmingen, Stadt"	70.11	43470	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09771	9771000	Aichach-Friedberg	780.25	132596	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09772	9772000	Augsburg	1070.61	249838	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09773	9773000	Dillingen a.d.Donau	792.24	95159	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09774	9774000	Günzburg	762.41	124519	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09775	9775000	Neu-Ulm	515.85	172546	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09776	9776000	Lindau (Bodensee)	323.39	81148	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	3	Ländliche Region	1	Westdeutschland
+09777	9777000	Ostallgäu	1394.46	139278	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09778	9778000	Unterallgäu	1229.58	142544	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+09779	9779000	Donau-Ries	1274.56	133043	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	1	Westdeutschland
+09780	9780000	Oberallgäu	1527.98	154568	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	1	Westdeutschland
+10041	10041000	Regionalverband Saarbrücken	410.95	330150	45	Regionalverband	2	Städtischer Kreis	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	1	Westdeutschland
+10042	10042000	Merzig-Wadern	556.66	103656	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+10043	10043000	Neunkirchen	249.8	133297	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+10044	10044000	Saarlouis	459.35	195815	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+10045	10045000	Saarpfalz-Kreis	418.28	143402	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+10046	10046000	St. Wendel	476.07	87867	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	1	Städtische Region	1	Westdeutschland
+11001	11001000	Mitte	39.4	385748	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland
+11002	11002000	Friedrichshain	20.4	290386	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland
+11003	11003000	Pankow	103.22	409335	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland
+11004	11004000	Charlottenburg	64.69	343592	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland
+11005	11005000	Spandau	91.88	245197	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland
+11006	11006000	Steglitz	102.56	310071	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland
+11007	11007000	Tempelhof	53.05	350984	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland
+11008	11008000	Neukölln	44.93	329917	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland
+11009	11009000	Treptow	167.73	273689	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland
+11010	11010000	Marzahn	61.82	269967	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland
+11011	11011000	Lichtenberg	52.12	294201	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland
+11012	11012000	Reinickendorf	89.32	266408	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland
+12051	12051000	"Brandenburg an der Havel, Stadt"	229.72	71886	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+12052	12052000	"Cottbus, Stadt"	165.62	101036	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+12053	12053000	"Frankfurt (Oder), Stadt"	147.85	58237	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+12054	12054000	"Potsdam, Stadt"	188.26	175710	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	3	Ländliche Region	2	Ostdeutschland
+12060	12060000	Barnim	1479.67	180864	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland
+12061	12061000	Dahme-Spreewald	2274.48	167319	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland
+12062	12062000	Elbe-Elster	1899.57	103455	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland
+12063	12063000	Havelland	1727.29	160710	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland
+12064	12064000	Märkisch-Oderland	2158.67	192921	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland
+12065	12065000	Oberhavel	1808.16	209893	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland
+12066	12066000	Oberspreewald-Lausitz	1223.07	111122	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+12067	12067000	Oder-Spree	2256.76	178347	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+12068	12068000	Ostprignitz-Ruppin	2526.57	99368	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland
+12069	12069000	Potsdam-Mittelmark	2592.06	213214	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland
+12070	12070000	Prignitz	2138.56	77263	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland
+12071	12071000	Spree-Neiße	1656.97	115456	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland
+12072	12072000	Teltow-Fläming	2104.24	166890	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland
+12073	12073000	Uckermark	3076.9	120349	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland
+13003	13003000	"Rostock, Stadt"	181.36	208409	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland
+13004	13004000	"Schwerin, Stadt"	130.52	95797	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+13071	13071000	Mecklenburgische Seenplatte	5495.65	260574	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland
+13072	13072000	Landkreis Rostock	3431.28	214635	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland
+13073	13073000	Vorpommern-Rügen	3214.43	225123	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland
+13074	13074000	Nordwestmecklenburg	2127.08	156993	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+13075	13075000	Vorpommern-Greifswald	3945.63	237066	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland
+13076	13076000	Ludwigslust-Parchim	4766.76	212522	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+14511	14511000	"Chemnitz, Stadt"	221.05	246855	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+14521	14521000	Erzgebirgskreis	1827.89	340373	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+14522	14522000	Mittelsachsen	2116.88	308153	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+14523	14523000	Vogtlandkreis	1412.45	229584	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+14524	14524000	Zwickau	949.77	319988	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+14612	14612000	"Dresden, Stadt"	328.48	551072	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland
+14625	14625000	Bautzen	2395.58	302634	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+14626	14626000	Görlitz	2111.41	256587	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+14627	14627000	Meißen	1454.58	242862	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	1	Städtische Region	2	Ostdeutschland
+14628	14628000	Sächsische Schweiz-Osterzgebirge	1654.19	245418	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	1	Städtische Region	2	Ostdeutschland
+14713	14713000	"Leipzig, Stadt"	297.8	581980	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	1	Städtische Region	2	Ostdeutschland
+14729	14729000	Leipzig	1651.32	258008	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	1	Städtische Region	2	Ostdeutschland
+14730	14730000	Nordsachsen	2028.54	197794	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	1	Städtische Region	2	Ostdeutschland
+15001	15001000	"Dessau-Roßlau, Stadt"	244.75	82111	41	Kreisfreie Stadt	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+15002	15002000	"Halle (Saale), Stadt"	135.02	239173	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	1	sehr zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+15003	15003000	"Magdeburg, Stadt"	201.01	238478	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	3	Ländliche Region	2	Ostdeutschland
+15081	15081000	Altmarkkreis Salzwedel	2293.03	84457	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland
+15082	15082000	Anhalt-Bitterfeld	1453.52	161264	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+15083	15083000	Börde	2366.59	172619	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+15084	15084000	Burgenlandkreis	1413.7	181968	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+15085	15085000	Harz	2104.54	216299	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+15086	15086000	Jerichower Land	1576.85	90465	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+15087	15087000	Mansfeld-Südharz	1448.86	138013	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+15088	15088000	Saalekreis	1433.71	185494	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	2	zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+15089	15089000	Salzlandkreis	1426.85	192739	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+15090	15090000	Stendal	2423.25	113186	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland
+15091	15091000	Wittenberg	1930.47	126815	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+16051	16051000	"Erfurt, Stadt"	269.91	212988	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+16052	16052000	"Gera, Stadt"	152.19	94859	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+16053	16053000	"Jena, Stadt"	114.76	111099	41	Kreisfreie Stadt	1	kreisfreie Großstadt	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+16054	16054000	"Suhl, Stadt"	103.03	35166	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+16055	16055000	"Weimar, Stadt"	84.48	64426	41	Kreisfreie Stadt	2	Städtischer Kreis	1	Städtischer Raum	2	zentral	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+16056	16056000	"Eisenach, Stadt"	104.17	42710	41	Kreisfreie Stadt	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+16061	16061000	Eichsfeld	943.07	100645	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+16062	16062000	Nordhausen	713.92	84697	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+16063	16063000	Wartburgkreis	1307.46	123764	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+16064	16064000	Unstrut-Hainich-Kreis	979.68	103504	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+16065	16065000	Kyffhäuserkreis	1037.87	75818	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	4	sehr peripher	3	Ländliche Region	2	Ostdeutschland
+16066	16066000	Schmalkalden-Meiningen	1210.74	122952	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+16067	16067000	Gotha	936.08	135521	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+16068	16068000	Sömmerda	806.86	70027	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+16069	16069000	Hildburghausen	938.43	63923	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+16070	16070000	Ilm-Kreis	843.73	108830	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+16071	16071000	Weimarer Land	804.49	82131	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+16072	16072000	Sonneberg	433.61	56361	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	3	Ländliche Region	2	Ostdeutschland
+16073	16073000	Saalfeld-Rudolstadt	1036.02	107368	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+16074	16074000	Saale-Holzland-Kreis	815.26	82990	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+16075	16075000	Saale-Orla-Kreis	1151.33	81501	44	Landkreis	4	Dünn besiedelter ländlicher Kreis	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+16076	16076000	Greiz	845.95	99275	44	Landkreis	2	Städtischer Kreis	1	Städtischer Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
+16077	16077000	Altenburger Land	569.44	90650	44	Landkreis	3	Ländlicher Kreis mit Verdichtungsansätzen	2	Ländlicher Raum	3	peripher	2	Region mit Verstädterungsansätzen	2	Ostdeutschland
