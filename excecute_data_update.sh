@@ -1,7 +1,7 @@
 #!/bin/bash
 
 printf "\n\n\nstart of run at `date +'%Y-%m-%d %H:%M:%S'`\n"
-cd ~/../../data/repos/covid-19_germany/
+cd ~/../../data/repos/covid-19_germany_refresh_1/
 
 
 git status
