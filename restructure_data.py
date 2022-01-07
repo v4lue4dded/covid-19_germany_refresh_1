@@ -177,9 +177,9 @@ data_time =  pd.date_range(start=min_Datum, end=max_Datum) \
         np.where(x.Datum < dt.datetime(2020, 3, 1), '1: 01.2020 - 02.2020',
         np.where(x.Datum < dt.datetime(2020, 6, 1), '2: 03.2020 - 05.2020',
         np.where(x.Datum < dt.datetime(2020,10, 1), '3: 06.2020 - 09.2020',
-        np.where(x.Datum < dt.datetime(2020, 3, 1), '4: 10.2020 - 02.2021',
-        np.where(x.Datum < dt.datetime(2020, 6, 1), '5: 03.2021 - 05.2020',
-        np.where(x.Datum < dt.datetime(2020,10, 1), '6: 06.2021 - 09.2020',
+        np.where(x.Datum < dt.datetime(2021, 3, 1), '4: 10.2020 - 02.2021',
+        np.where(x.Datum < dt.datetime(2021, 6, 1), '5: 03.2021 - 05.2021',
+        np.where(x.Datum < dt.datetime(2021,10, 1), '6: 06.2021 - 09.2021',
         np.where(x.Datum < max_Datum - dt.timedelta(days= 27), '7: 09.2020 - vor 4 Wochen',
         np.where(x.Datum < max_Datum - dt.timedelta(days= 6), '8: vor 4 Wochen - vor 1er Woche', '6: letze Woche'
         ))))))))
